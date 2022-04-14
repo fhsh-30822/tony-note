@@ -1,10 +1,10 @@
 :root {
   // brand colors
-  --c-brand: #636ecf;
-  --c-brand-light: #7d88e9;
+  --c-brand: #d5aaf9;
+  --c-brand-light: #a3aae8;
 
   // background colors
-  --c-bg: #ffe0ce;
+  --c-bg: #c61ca7;
   --c-bg-light: #d5dadf;
   --c-bg-lighter: #dbd3d3;
   --c-bg-navbar: var(--c-bg);
@@ -12,12 +12,12 @@
   --c-bg-arrow: #c3c4d4;
 
   // text colors
-  --c-text: #2b214d;
+  --c-text: #ffffff;
   --c-text-accent: var(--c-brand);
-  --c-text-light: #2a3f55;
-  --c-text-lighter: #3c4b7a;
-  --c-text-lightest: #6a71ad;
-  --c-text-quote: #945d5d;
+  --c-text-light: #d6dde4;
+  --c-text-lighter: #dce1ef;
+  --c-text-lightest: #b8b9c5;
+  --c-text-quote: #dec6c6;
 
   // border colors
   --c-border: #fafafa;
@@ -143,7 +143,7 @@ html.dark {
   --c-bg-lighter: #b7a7be;
 
   // text colors
-  --c-text: #c27a5b;
+  --c-text: #d4880e;
   --c-text-light: #dfb9b5;
   --c-text-lighter: #d1a8a8;
   --c-text-lightest: #976b6b;

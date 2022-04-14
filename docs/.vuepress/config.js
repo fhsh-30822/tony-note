@@ -1,8 +1,8 @@
 module.exports = { 
-  title: "Elenora_.z", 
+  title: "tony's_note", 
   description: "Build from quickStart4Vuepress, made from CXPhoenix", 
   themeConfig: {
-      logo: 'https://imglf6.lf127.net/img/SGhwMFNNWmJHaGJhWVkrcld5OW9lM1BhZUU4cEp5Qlk5L3FMd0JveXo2Z1RIVnpIQ2UvdFl3PT0.gif?imageView&thumbnail=1000x0&tostatic=0',
+      logo: 'https://img.moegirl.org.cn/common/thumb/2/25/%E7%99%BD.png/420px-%E7%99%BD.png',
     },
     themeConfig: {
       // 可折叠的侧边栏
