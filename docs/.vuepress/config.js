@@ -11,12 +11,12 @@ module.exports = {
           {
             text: 'Github 及 Vercel 筆記',
             collapsible: true,
-            children: ['/note/note1', '/note/note1/readme2.md'],
+            children: ['/note/note1/', '/note/note1/readme2.md/'],
           },
           {
             text: 'html 及 css 及 js 筆記',
             collapsible: true,
-            children: ['/note/note2/', '/note/note2/readme2.md','/note/note2/readme3.md','/note/note2/readme4.md'],
+            children: ['/note/note2/', '/note/note2/readme2.md/','/note/note2/readme3.md/','/note/note2/readme4.md/'],
           },
         ],
         
