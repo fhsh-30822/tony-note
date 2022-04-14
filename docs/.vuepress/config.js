@@ -7,7 +7,7 @@ module.exports = {
     themeConfig: {
       // 可折叠的侧边栏
       sidebar: {
-        '/note/note1/': [
+        '/note/': [
           {
             text: 'Github 及 Vercel 筆記',
             collapsible: true,
