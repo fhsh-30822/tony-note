@@ -9,34 +9,14 @@ module.exports = {
       sidebar: {
         '/note/': [
           {
-            text: '建網頁前',
+            text: 'Github 及 Vercel 筆記',
             collapsible: true,
-            children: ['/note/', '/note/prework/'],
+            children: ['/note/note1', '/note/note1/readme2.md'],
           },
           {
-            text: '建立網頁',
+            text: 'html 及 css 及 js 筆記',
             collapsible: true,
-            children: ['/note/note2/', '/note/note2/note.md'],
-          },
-          {
-            text: 'Github 及 Vercel 上架',
-            collapsible: true,
-            children: ['/note/note3/', '/note/note3/readme2.md'],
-          },
-          {
-            text: 'html & css & js',
-            collapsible: true,
-            children: ['/note/note3-1/','/note/note3-1/readme2.md', '/note/note3-1/readme3.md','/note/note3-1/readme4.md'],
-          },
-          {
-            text: '實作 profile card 筆記',
-            collapsible: true,
-            children: ['/note/note3-2/'],
-          },
-          {
-            text: '最後的最後!',
-            collapsible: true,
-            children: ['/note/note4/'],
+            children: ['/note/note2/', '/note/note2/readme2.md','/note/note2/readme3.md','/note/note2/readme4.md'],
           },
         ],
         
